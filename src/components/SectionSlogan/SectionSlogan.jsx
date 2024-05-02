@@ -12,7 +12,9 @@ export class SectionSlogan extends React.Component {
           <h4>Empresa Lorem Ipsum</h4>
           <h1>Lorem ipsum dolor</h1>
           <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
-          <button>Fale Conosco</button>
+          <a href="https://api.whatsapp.com/send?phone=+55350000-0000">
+            <button>Fale Conosco</button>
+          </a>
         </div>
         <div></div>
       </section>

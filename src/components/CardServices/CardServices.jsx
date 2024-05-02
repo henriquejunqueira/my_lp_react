@@ -8,7 +8,9 @@ export class CardServices extends React.Component {
       <div className="cardServices">
         <img src={this.props.img} alt="" />
         <p>{this.props.paragraph}</p>
-        <button>Fale Conosco</button>
+        <a href="https://api.whatsapp.com/send?phone=+55350000-0000">
+          <button>Fale Conosco</button>
+        </a>
       </div>
     );
   }
