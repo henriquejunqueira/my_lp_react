@@ -1,0 +1,50 @@
+.sectionSlogan {
+  background-image: url('../../assets/img/capa.jpg');
+  height: 653px;
+
+  display: flex;
+  gap: 1rem;
+}
+
+.sectionSlogan h4 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 250px;
+  margin-bottom: 12px;
+  color: #f7f7f7;
+}
+
+.sectionSlogan h1 {
+  font-size: 68px;
+  font-weight: 400;
+  margin-bottom: 12px;
+  color: #f7f7f7;
+}
+
+.sectionSlogan h2 {
+  font-size: 28px;
+  font-weight: 400;
+  margin-bottom: 12px;
+  color: #f7f7f7;
+}
+
+.sectionSlogan button {
+  margin-bottom: 12px;
+  width: 200px;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  font-size: 18px;
+
+  background-color: #11998e;
+  color: #f7f7f7;
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.25);
+}
+
+#sloganInfos {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+
+  /* gap: 5rem; */
+}

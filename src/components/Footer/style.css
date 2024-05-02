@@ -1,0 +1,32 @@
+.containerFooter {
+  background-color: #11998e;
+}
+
+.containerFooter p {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+#containerContact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.socialNetworks {
+  margin-right: 150px;
+}
+
+#imgLogoFooter {
+  margin-left: 150px;
+}
+
+#copy {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.socialNetworks img {
+  width: 100px;
+  height: 100px;
+}
